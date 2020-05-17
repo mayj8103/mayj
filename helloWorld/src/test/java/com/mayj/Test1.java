@@ -12,6 +12,7 @@ public class Test1 {
 		System.out.println("*************************");
 		System.out.println("test");
 		System.out.println("test");
+		System.out.println("test");
 		System.out.println("*************************");
 	}
 
