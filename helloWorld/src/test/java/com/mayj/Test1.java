@@ -11,6 +11,7 @@ public class Test1 {
 //		fail("Not yet implemented");
 		System.out.println("*************************");
 		System.out.println("test");
+		System.out.println("test");
 		System.out.println("*************************");
 	}
 
