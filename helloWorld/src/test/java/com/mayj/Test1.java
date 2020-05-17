@@ -12,6 +12,7 @@ public class Test1 {
 		System.out.println("*************************");
 		System.out.println("test");
 		System.out.println("other test");
+		System.out.println("branch test");
 		System.out.println("*************************");
 	}
 
