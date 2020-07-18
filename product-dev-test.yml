@@ -24,4 +24,4 @@ eureka:
   instance:
     prefer-ip-address: true
     instance-id: ${spring.cloud.client.ip-address}:${server.port}
-name: mayunjiang-test-refresh
+name: mayunjiang-test-bus-refresh
